@@ -78,9 +78,12 @@ a. Mac OS:
 
 b. Windows:  
    - Download installer [here](https://git-scm.com/download/win)  
+   - Using [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget/): `winget install --id Git.Git -e --source winget` 
 
 c. Linux:  
    - Instructions [here](https://git-scm.com/download/linux)  
+   - Debian/Ubuntu: `apt-get install git`  
+   - Fedora/Rocky: `dnf install git `
 
 ### Git LFS (large file storage)  
 For details, see [here](https://git-lfs.com/)  
