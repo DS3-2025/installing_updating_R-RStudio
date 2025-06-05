@@ -61,9 +61,9 @@ d. Updating `RStudio`
 
 
 ## Alternatives to running R and RStudio locally
-a. Data Studio on the [CAVATICA platform](https://cavatica.sbgenomics.com/)
+a. Data Studio on the [CAVATICA platform](https://cavatica.sbgenomics.com/) (free account required)
 
-b. [Posit Cloud](https://posit.cloud/plans/free)
+b. [Posit Cloud](https://posit.cloud/plans/free) (free account required)
 
 
 ## Additional requirements
