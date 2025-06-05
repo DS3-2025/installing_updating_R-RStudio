@@ -86,6 +86,7 @@ c. Linux:
    - Fedora/Rocky: `dnf install git `
 
 ### Git LFS (large file storage)  
+OPTIONAL - only required during DS3 course for mass_cytometry_dataviz exercise.  
 For details, see [here](https://git-lfs.com/)  
 
 a. Mac OS:  
