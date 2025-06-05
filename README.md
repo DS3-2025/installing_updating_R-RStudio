@@ -13,6 +13,7 @@ c. For Linux users, you can download `R` [here](https://cran.rstudio.com/bin/lin
 
 ## 2. Installing `RStudio` IDE  
 Download `RStudio` [here](https://posit.co/download/rstudio-desktop/)  
+  
 For tips on getting started, see:  
    - `RStudio` [User Guide](https://docs.posit.co/ide/user/)  
    - `RStudio` [Get Started](https://docs.posit.co/ide/user/ide/get-started/) section.
