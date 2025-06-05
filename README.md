@@ -3,7 +3,7 @@
 ## 1. Installing `R`
 
 a. For Mac OS users, you can download `R` [here](https://cran.r-project.org/bin/macosx/).  
-   - For R ≥4.1.0 there is a separate build for ARM-based Macs (also known as ‘M1/M2/M3’ and ‘Apple Silicon’).  
+   - For R ≥4.1.0 there is a separate build for ARM-based Macs (also known as ‘M1/M2/M3/M4’ and ‘Apple Silicon’).  
    - _For packages that require compilation:_ Xcode Command Line Tools needs to be installed - to install execute the following command in Terminal: `xcode-select --install` or see [here](https://cran.r-project.org/bin/macosx/tools/) and [here](https://mac.install.guide/commandlinetools). If having gfortran issues on Apple Silicon computers, check out the [macrtools R package](https://github.com/coatless-mac/macrtools/).   
 
 b. For Windows users, you can download `R` [here](https://cran.r-project.org/bin/windows/base/).  
@@ -13,7 +13,10 @@ c. For Linux users, you can download `R` [here](https://cran.rstudio.com/bin/lin
 
 ## 2. Installing `RStudio` IDE  
 Download `RStudio` [here](https://posit.co/download/rstudio-desktop/)  
-For tips on getting started, see the `RStudio` cheatsheet [here](https://rstudio.github.io/cheatsheets/html/rstudio-ide.html)  
+For tips on getting started, see:  
+   - `RStudio` [User Guide](https://docs.posit.co/ide/user/)  
+   - `RStudio` [Get Started](https://docs.posit.co/ide/user/ide/get-started/) section.
+   - `RStudio` [cheatsheet](https://rstudio.github.io/cheatsheets/html/rstudio-ide.html)  
 
 ## 3. Updating `R` and `RStudio`  
 
